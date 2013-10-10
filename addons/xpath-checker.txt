@@ -1,0 +1,3 @@
+XPath Checker
+https://addons.mozilla.org/en-US/firefox/addon/xpath-checker/
+An interactive editor for XPath expressions. 

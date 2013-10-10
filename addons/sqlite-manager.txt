@@ -1,0 +1,3 @@
+SQLite Manager
+https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/
+Manage any SQLite database on your computer. 

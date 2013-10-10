@@ -1,0 +1,4 @@
+United States English Spellchecker
+https://addons.mozilla.org/en-US/firefox/addon/united-states-english-spellche/
+English United States (en-US) spellchecking dictionary.
+

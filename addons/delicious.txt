@@ -1,0 +1,3 @@
+Delicious
+https://addons.mozilla.org/en-US/firefox/addon/delicious-bookmarks/
+Social bookmarking service integrates your bookmarks and tags with Firefox.

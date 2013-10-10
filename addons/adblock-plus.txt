@@ -1,0 +1,3 @@
+Adblock Plus
+https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
+Get rid of ads and banners 

@@ -1,0 +1,4 @@
+NoScript
+https://addons.mozilla.org/en-US/firefox/addon/noscript/
+Protect yourself against XSS and Clickjacking
+We donated.

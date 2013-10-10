@@ -1,0 +1,4 @@
+GreaseMonkey
+https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+Allows you to customize the way a webpage displays using small bits of JavaScript
+We donated (maybe-- did PayPal succeed?)
