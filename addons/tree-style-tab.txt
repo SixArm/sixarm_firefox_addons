@@ -1,0 +1,3 @@
+Tree Style Tab
+https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
+Show tabs like a tree.
