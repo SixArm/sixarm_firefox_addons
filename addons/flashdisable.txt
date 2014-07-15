@@ -1,0 +1,4 @@
+FlashDisable
+https://addons.mozilla.org/en-US/firefox/addon/flashdisable
+Toolbar button that lets you disable and re-enable Flash with just one click.
+We donated.
