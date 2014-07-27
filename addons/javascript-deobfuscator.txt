@@ -1,0 +1,3 @@
+JavaScript Deobfuscator
+https://addons.mozilla.org/en-us/firefox/addon/javascript-deobfuscator/
+Shows what JavaScript code runs on a web page, even if the code is obfuscated and generated on the fly.
