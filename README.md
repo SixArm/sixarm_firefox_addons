@@ -1,4 +1,4 @@
-# SixArm.com » Firefox » Add-ons
+# Firefox » Add-ons
 
 This repo tracks the Firefox add-ons that we use and like.
 
