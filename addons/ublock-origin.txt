@@ -1,0 +1,3 @@
+uBlock Origin
+https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search
+An efficient blocker that is easy on CPU and memory.
