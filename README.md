@@ -17,5 +17,6 @@ For blocking, we recommend "uBlock Origin" as the top choice over all these:
   * uBlock (not Origin) - disruptions with the developer who took over uBlock.
   * U Block For Origin - a browser app, not an extension.
   * Adblock - sold to unknown company.
-  * Adblock Plus (ABP) - good, but seems to use a lot of memory on our systems.
+  * AdBlock Plus (ABP) - good, but seems to use a lot of memory on our systems.
+  * AdBlock Edge - based on AdBlock Plus, but without Acceptable Ads policy.
   * AdBlock - removed from the Firefox extensions due to name confusing.
