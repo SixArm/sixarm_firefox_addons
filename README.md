@@ -9,3 +9,12 @@ Each add-on has a text file with:
   * summary
   * note, e.g. if we have donated
 
+## Ad Block
+
+For ad block, we recommend "uBlock Origin" as the top choice over all these:
+
+  * uBlock Origin, a.k.a. U Block For Origin - best choice IMHO.
+  * uBlock (not Origin) - disruptions with the developer who took over uBlock.
+  * Adblock - sold to unknown company.
+  * Adblock Plus (ABP) - good, but seems to use a lot of memory on our systems.
+  * AdBlock - removed from the Firefox extensions due to name confusing.
