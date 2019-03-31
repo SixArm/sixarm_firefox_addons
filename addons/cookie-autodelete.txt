@@ -1,0 +1,3 @@
+Cookie AutoDelete
+https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/
+When a tab closes, any cookies not being used are automatically deleted.
