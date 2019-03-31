@@ -1,0 +1,3 @@
+Privacy Badger
+https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
+Stops third-party trackers such as advertising trackers.
