@@ -1,0 +1,3 @@
+HTTPS Everywhere
+https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
+Protect your communications by enabling HTTPS encryption automatically.
