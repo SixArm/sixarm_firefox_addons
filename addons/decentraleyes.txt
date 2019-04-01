@@ -1,0 +1,3 @@
+Decentraleyes
+https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
+Protects you against tracking through "free", centralized, content delivery.
